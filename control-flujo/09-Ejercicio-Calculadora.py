@@ -1,6 +1,6 @@
 print("Bienvenido a la calculadora en Python")
 print("Para poder salir de la calculadora, escribe 'salir'")
-print("Las operaciones son suma, resta, multiplicacion, division")
+print("Las operaciones son suma, resta, multi, div")
 
 num1 = ""
 while True:

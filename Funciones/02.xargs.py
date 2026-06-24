@@ -1,4 +1,4 @@
-def suma(*numeros):
+def suma(*numeros): #para indicar que puede recibir cualquier cantidad de argumentos
     resultado = 0
     for numero in numeros:
         resultado += numero

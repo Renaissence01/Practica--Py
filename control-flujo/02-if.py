@@ -1,4 +1,4 @@
-edad = 2
+edad = 20
 
 if edad > 70:
     print("Eres adulto de edad")
